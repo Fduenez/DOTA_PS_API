@@ -1,0 +1,11 @@
+#env file
+.env
+
+#idea folder
+.idea/*
+
+#pycache
+__pycache__/*
+
+#http test
+*.http
