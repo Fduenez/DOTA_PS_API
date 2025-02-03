@@ -11,3 +11,4 @@ requests-toolbelt
 SQLAlchemy
 typing_extensions
 uvicorn
+python-dotenv
