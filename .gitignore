@@ -9,3 +9,4 @@ __pycache__/*
 
 #http test
 *.http
+.vercel
